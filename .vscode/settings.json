@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "New Unity Project.sln"
+    "dotnet.defaultSolution": "si.sln"
 }

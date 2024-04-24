@@ -20,6 +20,7 @@ public class PlayeMovement : MonoBehaviour
     public Camera mainCamera;
     private Vector3 camForward;
     private Vector3 camRight;
+    
 
     void Start()
     {
